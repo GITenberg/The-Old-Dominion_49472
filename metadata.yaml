@@ -1,0 +1,24 @@
+_repo: The-Old-Dominion_49472
+creator:
+  author:
+    agent_name: James, G. P. R. (George Payne Rainsford)
+    alias: James, George Payne Rainsford
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '1301'
+    url: http://www.gutenberg.org/2009/agents/1301
+    wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+description: ''
+gutenberg_issued: '2015-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Southampton Insurrection, 1831 -- Fiction'
+title: The Old Dominion
+url: http://www.gutenberg.org/ebooks/49472
